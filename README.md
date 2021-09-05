@@ -1,4 +1,5 @@
-#AlfaBank Test
+AlfaBank Test
+============
 
 Создать сервис, который обращается к сервису курсов валют, и отдает gif в ответ:
 
@@ -6,7 +7,8 @@
 
 Если ниже - отсюда https://giphy.com/search/broke
 
-##Ссылки
+Ссылки
+------
 
 REST API курсов валют - https://docs.openexchangerates.org/
 
